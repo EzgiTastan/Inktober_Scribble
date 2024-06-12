@@ -14,6 +14,3 @@ The script starts by drawing a square. This square part is expected to be your m
 ## Preview:
 ![Screenshot_761](https://github.com/EzgiTastan/Inktober_Scribble/assets/139014781/be0b45c8-23c6-440d-aa83-956daa6dd60b)
 ![Screenshot_762](https://github.com/EzgiTastan/Inktober_Scribble/assets/139014781/3e6aaaf1-1b8b-451b-88ac-1b4356b477dd)
-
-## Credits:
-This project draws inspiration from the Inktober challenge, a celebration of creativity in the art community. Additionally, it pays homage to the role of randomness in game development, where it often fuels the design of captivating and unpredictable environments. As a developer who's ventured into game design myself, I understand the power of randomness in sparking creativity and innovation.
